@@ -1,0 +1,31 @@
+
+# +++++ Folders +++++ #
+# IntelliJ
+**/.idea/
+**/out/
+
+# PyCharm
+**/.venv/
+**/venv/
+**/build/
+**/dist/
+**/__pycache__/
+
+# Visual Studio
+**/.vs/
+**/bin/
+**/obj/
+
+
+# +++++ Files +++++ #
+# IntelliJ
+*.iml
+
+# PyCharm
+*.spec
+
+# Environment file
+.env
+
+
+
